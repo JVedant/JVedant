@@ -11,13 +11,17 @@
 <code><a href="https://https://jupyter.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Deep%20Learning-102230?style=flat"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Reinforcement%20Learning-102230?style=flat"></a></code>
 
 
 
 - 🌱 I’m currently learning Reinforcement learning and Deep neural nets
 
-- 👯 I’m looking to collaborate on any interesting topic related to DataScience or machine learning
+- 👯 I’m looking to collaborate on any  topic related to DataScience or machine learning which excites me
+
 - 💬 Ask me about anything related to the above mentioned topics ... any suggestions are always welcomed
+
 - ⚡ Fun fact: ... data is everything in modern world
 
 
