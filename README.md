@@ -5,6 +5,7 @@
 **🔭 Currently working on:**
 
 <code><a href="https://www.spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a href="https://www.https://www.oracle.com/in/java/technologies/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
@@ -15,7 +16,7 @@
 
 - 🌱 I’m currently learning Reinforcement learning and Deep neural nets
 
-- 👯 I’m looking to collaborate on any  topic related to DataScience or machine learning which excites me
+- 👯 I’m looking to collaborate on any topic related to DataScience or machine learning which excites me
 
 - 💬 Ask me about anything related to the above mentioned topics ... any suggestions are always welcomed
 
