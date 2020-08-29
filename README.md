@@ -8,11 +8,8 @@
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://https://jupyter.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Deep%20Learning-102230?style=flat"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Reinforcement%20Learning-102230?style=flat"></a></code>
 
 
 
