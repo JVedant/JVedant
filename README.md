@@ -1,24 +1,24 @@
-### Hi there, i'm Vedant from India 👋 👨🏻‍💻 🌍
+### Hi there, i'm Vedant from India and i'm a Java Developer and Data-Science enthusiast 👋 👨🏻‍💻 
 
 ---
 
-**🔭 Currently working on:**
+**🔭 i'm Currently working on:**
 
-<code><a href="https://www.spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
 <code><a href="https://www.https://www.oracle.com/in/java/technologies/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://www.spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring"></a></code>
+<code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"></a></code>
 
 
 
-- 🌱 I’m currently learning Reinforcement learning and Deep neural nets
+- 🌱 I’m currently on a journey to learn Reinforcement learning and Deep neural nets
 
 - 👯 I’m looking to collaborate on any topic related to DataScience or machine learning which excites me
 
-- 💬 Ask me about anything related to the above mentioned topics ... any suggestions are always welcomed
+- 💬 Ask me about anything related to Web-apps backend, Machine Learning, Python and Frameworks of java i.e. Spring and SpringBoot
 
 - ⚡ Fun fact: ... data is everything in modern world
 
@@ -27,7 +27,7 @@
 
 ---
 
-## on a goal to increase all the below mentioned stats
+## On a goal to maximize my contribution on OpenSource
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JVedant&show_icons=true&theme=radical&line_height=33">
