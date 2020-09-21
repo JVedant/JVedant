@@ -1,4 +1,5 @@
-### Hi there, i'm Vedant from India and i'm a Java Developer and Data-Science enthusiast 👋 👨🏻‍💻 
+### Hi there, this is Vedant from India.
+### A Java Developer and Data-Science enthusiast 👋 👨🏻‍💻 
 
 ---
 
