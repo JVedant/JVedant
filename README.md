@@ -1,5 +1,5 @@
-### Hi there, this is Vedant from India.
-### A Java Developer and Data-Science enthusiast 👋 👨🏻‍💻 
+### Hi there 👋🏻, this is Vedant from India.
+### A Machine Learning Research enthusiast 🧠 who's fascinated by AI in Medical Domain 🏥 
 
 ---
 
@@ -15,16 +15,16 @@
 
 
 
-- 🌱 I’m currently on a journey to learn Reinforcement learning and Deep neural nets
+- 🌱 I’m currently on a journey to use AI in medical domain.
 
 - 👯 I’m looking to collaborate on any topic related to DataScience or machine learning which excites me
 
-- 💬 Ask me about anything related to Web-apps backend, Machine Learning, Python and Frameworks of java i.e. Spring and SpringBoot
+- 💬 Ask me about anything related to Web-apps backend, Machine Learning, Python, flask, APIs etc.
 
-- ⚡ Fun fact: ... data is everything in modern world
+- ⚡ Fun fact: Data is everything in modern world
 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-joshi-48a716180/)](https://www.linkedin.com/in/vedant-joshi-48a716180/) [![Twitter Badge](http://img.shields.io/badge/-@JVedant2308-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/JVedant2308)](https://twitter.com/JVedant2308) [![GitHub followers](https://img.shields.io/github/followers/JVedant?label=Follow&style=social)](https://github.com/JVedant/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/jvedant/)](https://www.kaggle.com/jvedant)[![Gmail Badge](https://img.shields.io/badge/-jvedant.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:jvedant.dev@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-joshi-48a716180/)](https://www.linkedin.com/in/vedant-joshi-48a716180/) [![Twitter Badge](http://img.shields.io/badge/-@JVedant2308-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/JVedant2308)](https://twitter.com/Vedant__Trains) [![GitHub followers](https://img.shields.io/github/followers/JVedant?label=Follow&style=social)](https://github.com/JVedant/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/jvedant/)](https://www.kaggle.com/jvedant)[![Gmail Badge](https://img.shields.io/badge/-jvedant.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:jvedant.dev@gmail.com)
 
 ---
 
