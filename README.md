@@ -1,4 +1,4 @@
-### Hi there 👋🏻, this is Vedant from India.
+### Hi there 👋🏻, this is Vedant from Arizona, USA.
 ### A Machine Learning Research enthusiast 🧠 who's fascinated by AI in Medical Domain 🏥 
 
 ---
@@ -20,7 +20,7 @@
 - ⚡ Fun fact: Data is everything in modern world
 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-joshi-48a716180/)](https://www.linkedin.com/in/vedant-joshi-48a716180/) [![Twitter Badge](http://img.shields.io/badge/-@JVedant_Trains-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Vedant__Trains)](https://twitter.com/Vedant__Trains) [![GitHub followers](https://img.shields.io/github/followers/JVedant?label=Follow&style=social)](https://github.com/JVedant/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/jvedant/)](https://www.kaggle.com/jvedant)[![Gmail Badge](https://img.shields.io/badge/-jvedant.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:jvedant.dev@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-joshi-48a716180/)](https://www.linkedin.com/in/vedant-joshi-48a716180/) [![GitHub followers](https://img.shields.io/github/followers/JVedant?label=Follow&style=social)](https://github.com/JVedant/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/jvedant/)](https://www.kaggle.com/jvedant)[![Gmail Badge](https://img.shields.io/badge/-jvedant.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:jvedant.dev@gmail.com)
 
 ---
 
